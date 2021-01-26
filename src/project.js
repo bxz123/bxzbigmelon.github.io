@@ -1404,7 +1404,7 @@ window.__require = function e(t, n, o) {
         cc._RF.push(t, "197e1hfNnxIcJx73V3VhUxY", "HttpManagerJs");
         var a = e("GameConfig"),
             i = (c(o = {
-                // URL: "",
+                URL: "https://bxz123.github.io/bxzbigmelon.github.io/",
                 cacheList: null,
                 isBusy: null,
                 req: null,
